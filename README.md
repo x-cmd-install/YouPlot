@@ -1,24 +1,63 @@
 # YouPlot
 
+[中文版本](./README.cn.md)
+
 A command line tool that draw plots on the terminal.
 
-- **Upstream**: <https://github.com/red-data-tools/YouPlot>
-- **Homepage**: <>
-- **Latest release**: `v0.5.0` (2026-05-24)
-- **Last commit**: 2026-06-22
-- **License**: MIT
-- **Stars**: 4843 · **Forks**: 72 · **Open issues**: 38 · **Contributors**: 21
+![YouPlot](https://repo.x-cmd.io/YouPlot.svg)
 
-## Installation
+## Install
 
 ```sh
 x install YouPlot
 ```
 
-See <https://x-cmd.com/install/YouPlot> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/red-data-tools/YouPlot>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:41:54Z._
+- **Latest**: `v0.5.0` (2026-05-24)
+- **Last commit**: 2026-06-22
+- **Published**: 2026-05-24T02:53:57Z
+
+## Popularity
+
+- **Stars**: 4,843 · **Forks**: 72 · **Open issues**: 38 · **Contributors**: 21
+
+## Totals (cumulative)
+
+- **Releases**: 12 · **Merged PRs**: 29 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 16 · **Commits**: 430
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-15 | 1 | 3 | 0 | 4 | 3 | 40 |
+
+## Code size
+
+Total: **2,188** lines of code across **56** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Ruby | 1,861 | 185 | 402 | 21 |
+| Svg | 319 | 0 | 0 | 1 |
+| Rakefile | 8 | 1 | 3 | 1 |
+| Markdown | 0 | 232 | 94 | 1 |
+| Text | 0 | 658 | 4 | 32 |
+
+## Improve this data
+
+Install metadata for YouPlot lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `YouPlot` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/YouPlot.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:39:48Z._
