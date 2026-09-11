@@ -36,7 +36,7 @@ Total: **2,188** lines of code across **56** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,844 · **Forks**: 72 · **Open issues**: 38 · **Contributors**: 21
+- **Stars**: 4,846 · **Forks**: 72 · **Open issues**: 38 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -62,4 +62,4 @@ Install metadata for YouPlot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:28:46Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:43:06Z._
