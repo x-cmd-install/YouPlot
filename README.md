@@ -36,7 +36,7 @@ Total: **2,188** lines of code across **56** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,852 · **Forks**: 72 · **Open issues**: 38 · **Contributors**: 21
+- **Stars**: 4,854 · **Forks**: 72 · **Open issues**: 38 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **2,188** lines of code across **56** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 1 | 2 | 0 | 5 | 0 | 36 |
-| 360d | 2025-09-29 | 1 | 3 | 0 | 7 | 0 | 40 |
-| last720d | 2024-10-04 | 1 | 6 | 0 | 7 | 2 | 47 |
+| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-29 | 1 | 2 | 0 | 5 | 0 | 36 |
+| 360d | 2025-09-30 | 1 | 3 | 0 | 7 | 0 | 40 |
+| last720d | 2024-10-05 | 1 | 6 | 0 | 7 | 2 | 47 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for YouPlot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:29:50Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:37:57Z._
