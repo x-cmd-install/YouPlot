@@ -32,7 +32,7 @@ Total: **2,188** lines of code across **56** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-05-24)
-- **Last commit**: 2026-06-22
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
@@ -40,18 +40,18 @@ Total: **2,188** lines of code across **56** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 29 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 13 · **Commits**: 430
+- **Releases**: 12 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 25 · **Open issues**: 13 · **Commits**: 433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-27 | 1 | 2 | 0 | 0 | 0 | 25 |
-| 360d | 2025-10-29 | 1 | 3 | 0 | 7 | 0 | 40 |
-| last720d | 2024-11-03 | 1 | 6 | 0 | 7 | 2 | 47 |
+| 30d | 2026-09-25 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-26 | 0 | 2 | 0 | 0 | 0 | 3 |
+| 90d | 2026-07-27 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last180d | 2026-04-28 | 1 | 4 | 0 | 0 | 0 | 23 |
+| 360d | 2025-10-30 | 1 | 5 | 0 | 7 | 0 | 43 |
+| last720d | 2024-11-04 | 1 | 8 | 0 | 7 | 2 | 50 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for YouPlot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:13:32Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:18:13Z._
